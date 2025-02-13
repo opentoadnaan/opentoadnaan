@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnaan Ahmad</h1>
-<h3 align="center">A passionate web and android developer second year student currently immersing myself in the world of technology and pursuing a Bachelor of Science in Computer Science and Engineering. My journey also includes a stimulating virtual internship accredited by AICTE where I immersed myself in the fascinating realms of artificial intelligence, machine learning and cyber security. These experiences not only broadened my technical knowledge, but also instilled in me a deep passion for pushing the boundaries of what technology can achieve.</h3>
+<h3 align="center">A passionate ios developer who is  immersing myself in the world of technology and pursuing a Bachelor of Science in Computer Science and Engineering. My journey also includes a stimulating virtual internship accredited by AICTE where I immersed myself in the fascinating realms of artificial intelligence, machine learning and cyber security. These experiences not only broadened my technical knowledge, but also instilled in me a deep passion for pushing the boundaries of what technology can achieve.</h3>
 
 - 🌱 I’m currently learning **node.js**
 
