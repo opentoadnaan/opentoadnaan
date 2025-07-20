@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adnaan Ahmad</h1>
-<h3 align="center">A passionate ios developer who is  immersing myself in the world of technology and pursuing a Bachelor of Science in Computer Science and Engineering. My journey also includes a stimulating virtual internship accredited by AICTE where I immersed myself in the fascinating realms of artificial intelligence, machine learning and cyber security. These experiences not only broadened my technical knowledge, but also instilled in me a deep passion for pushing the boundaries of what technology can achieve.</h3>
+<h3 align="center">
+🚀 Passionate iOS Developer | B.Tech in Computer Science & Engineering
+
+I'm currently pursuing my B.Tech in Computer Science & Engineering and deeply focused on iOS development. I recently completed an iOS Developer Internship at Infosys, where I worked on building Swift-based applications. Additionally, I took part in a virtual internship accredited by AICTE, exploring Artificial Intelligence, Machine Learning, and Cybersecurity. These experiences have strengthened my technical foundation and fueled my passion for creating impactful, user-focused mobile solutions.
+</h3>
+
 
 - 🌱 I’m currently learning **node.js**
 
