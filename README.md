@@ -65,9 +65,7 @@ These experiences have strengthened my technical foundation and fueled my passio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=opentoadnaan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opentoadnaan&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 b-readme-streak-stats.herokuapp.com/?user=opentoadnaan&hide_border=true" alt="GitHub Streak" />
 </p>
 
