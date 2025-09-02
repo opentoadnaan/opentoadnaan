@@ -53,15 +53,22 @@ These experiences have strengthened my technical foundation and fueled my passio
 </p>
 
 ---
+---
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opentoadnaan&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=opentoadnaan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opentoadnaan&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opentoadnaan&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opentoadnaan&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+b-readme-streak-stats.herokuapp.com/?user=opentoadnaan&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
