@@ -66,11 +66,6 @@ These experiences have strengthened my technical foundation and fueled my passio
 </p>
 
 
-b-readme-streak-stats.herokuapp.com/?user=opentoadnaan&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 ---
-
-<h3 align="left">📈 Accurate Language Usage (via GitHub Metrics):</h3>
-
-![Metrics](https://raw.githubusercontent.com/opentoadnaan/opentoadnaan/main/github-metrics.svg)
