@@ -72,7 +72,3 @@ b-readme-streak-stats.herokuapp.com/?user=opentoadnaan&hide_border=true" alt="Gi
 </p>
 
 ---
-
-<h3 align="left">📈 Accurate Language Usage (via GitHub Metrics):</h3>
-
-![Metrics](https://raw.githubusercontent.com/opentoadnaan/opentoadnaan/main/github-metrics.svg)
